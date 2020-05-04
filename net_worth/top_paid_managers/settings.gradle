@@ -1,0 +1,2 @@
+rootProject.name='top_paid_managers'
+include ':app'
